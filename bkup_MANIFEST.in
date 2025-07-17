@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include docx_footer_extractor *.py
+recursive-include tests *.py

@@ -1,0 +1,75 @@
+DOCX Metadata Extraction Results
+==================================================
+
+File: ./CS Log file handling.docx
+------------------------------
+Document ID: D002054507
+Document Revision: 
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS ExamCardsDatabaseService_Voxel_D002055389_RevA.docx
+------------------------------
+Document ID: D002055389
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS ExamCards verA.docx
+------------------------------
+Document ID: D002064158
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS Connectivity_R13.0_D002055364_RevA.docx
+------------------------------
+Document ID: D002055364
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS Exam Overview_verA.docx
+------------------------------
+Document ID: D002064334
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS PDT Voxel.docx
+------------------------------
+Document ID: 
+Document Revision: 
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./ComponentSpecifications_MR-RT_RTgo5.13_D002050479_RevA.docx
+------------------------------
+Document ID: Doc_ID
+Document Revision: Rev_Level
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS DicomConfigTool_R13.0_D002055371_RevA.docx
+------------------------------
+Document ID: D002055371
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
+File: ./CS LayoutManagerService__verA.docx
+------------------------------
+Document ID: D002066655
+Document Revision: A
+Template Number: 2001001526
+Template Version: 2
+Philips Information Classification: Internal
+
