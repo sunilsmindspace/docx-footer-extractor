@@ -1,0 +1,1 @@
+# docx-footer-extractor
